@@ -1,3 +1,3 @@
 # Movie-Recommender-System
-Content based Movie Recommender System in Python.
+Content based Movie Recommender System in Python. \n
 Dataset : TMDB dataset
